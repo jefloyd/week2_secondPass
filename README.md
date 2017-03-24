@@ -34,4 +34,8 @@ Let us revisit the [intermediate-jquery](https://github.com/den-materials/interm
 
 ## OOP and Prototypal Inheritance
 
-OOP is hard.  I am currently looking for a good resource to better explain this complicated concept in Javascript.  Stay tuned!
+OOP is hard.
+
+Looking for a good example to explain prototypal inheritance with JS?  [This article](http://stackoverflow.com/questions/29838735/basic-javascript-prototype-and-inheritance-example-for-animals) is a good one.
+
+Looking for a full re-coverage of all the things we covered in the first couple weeks, with a different approach?  [Check this one out](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects), at least the first section.
