@@ -13,3 +13,17 @@ The dev team is looking for a function that takes two numbers, `a` and `b`, and 
 Those who are on the 4 or 5 side, try the following challenge:
 
 Do the same three steps as above with the following function description: `grab an element with the id "math-result" and add the value to this element`.
+
+## Callbacks
+
+First, let's look at a [simple example](http://dreamerslab.com/blog/en/javascript-callbacks/) of callback use.
+
+Now, team up in your squads.  On a scale of 1 to 5, how confident are each of you about callbacks?  The lowest number in the squad should type out a solution for the following, and the rest of the team should help out or research:
+
+The dev team is looking for a new function.  We want to print out "first part is ready" immediately.  We want to print out "second part is ready" 3 seconds later.
+
+1. Define this function
+2. Call this function in dev tools
+3. Verify the time difference is about three seconds
+
+Those who are looking for a challenge, add the following feature: `print out "page is refreshed" every 4 seconds` (we update our databse every 4 seconds).
