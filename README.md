@@ -27,3 +27,11 @@ The dev team is looking for a new function.  We want to print out "first part is
 3. Verify the time difference is about three seconds
 
 Those who are looking for a challenge, add the following feature: `print out "page is refreshed" every 4 seconds` (we update our databse every 4 seconds).
+
+## jQuery
+
+Let us revisit the [intermediate-jquery](https://github.com/den-materials/intermediate-jquery) lab to run through the final exercise.  This will reinforce a lot of our jQuery concepts.
+
+## OOP and Prototypal Inheritance
+
+OOP is hard.  I am currently looking for a good resource to better explain this complicated concept in Javascript.  Stay tuned!
