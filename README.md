@@ -52,3 +52,5 @@ OOP is hard.
 Looking for a good example to explain prototypal inheritance with JS?  [This article](http://stackoverflow.com/questions/29838735/basic-javascript-prototype-and-inheritance-example-for-animals) is a good one.
 
 Looking for a full re-coverage of all the things we covered in the first couple weeks, with a different approach?  [Check this one out](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects), at least the first section.
+
+Want to dive deeper into constructor functions?  [This article](https://css-tricks.com/understanding-javascript-constructors/) goes into more specifics than our earlier lesson.
