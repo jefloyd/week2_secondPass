@@ -4,7 +4,7 @@
 
 Whiteboarding time!  On a scale of 1 to 5, how confident are you feeling about functions?  Form groups of 3 with numbers *similar* to yours, then try to attack the following problem on a whiteboard:
 
-The dev team is looking for a function that takes two numbers, `a` and `b`, and returns the following value: `add a to b, then multiply that value by b plus 4`
+The dev team is looking for a function that takes two numbers, `a` and `b`, and returns the following value: `add a to b, then multiply that value by (b plus 4)`
 
 1. Define this function
 2. Call this function twice with different `a` and `b` values
