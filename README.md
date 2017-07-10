@@ -30,7 +30,20 @@ Those who are looking for a challenge, add the following feature: `print out "pa
 
 ## jQuery
 
-Let us revisit the [intermediate-jquery](https://github.com/den-materials/intermediate-jquery) lab to run through the final exercise.  This will reinforce a lot of our jQuery concepts.
+A good resource for jQuery commands is the [intermediate-jquery](https://github.com/den-materials/intermediate-jquery).  Feel free to utilize this for the upcoming activity and for Project 1 if you are using jQuery.
+
+### jQuery Practice
+
+There is some very simple starter code in this repo.  Please complete the following steps to reinforce your jQuery skills.
+
+1. Fork and clone this repo.
+2. Include a jQuery `script` tag from a CDN.
+3. Do a "hello world" test in `app.js`.
+4. Open the page and verify you have a blue square.
+5. Change the color of the square to red on page load.
+6. Add a button with a click handler (console.log fine for now).
+7. Make the button's click handler remove the red square from the page.
+8. Finally, make the red square fade out as it gets removed from the page.
 
 ## OOP and Prototypal Inheritance
 
